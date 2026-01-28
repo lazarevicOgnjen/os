@@ -1,3 +1,10 @@
+yt videi
+----
+
+`lab vezbe` - [link](https://www.youtube.com/watch?v=lakrCvoOsAc&list=PLWLPHZCdUNsOqqpTIgkloVXuPODRUEfin)
+
+<br>
+
 komande
 ---
 
