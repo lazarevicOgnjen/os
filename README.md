@@ -5,6 +5,26 @@ videi
 
 <br>
 
+repo
+---
+> **clone**
+
+- `git clone`
+- yes
+- pwd
+- cd KOL1
+- code .
+
+> **commit**
+
+- `git add *`
+- git commit -m "Gotov kolokvijum"
+- `git push`
+- pwd
+
+
+<br>
+
 komande
 ---
 
