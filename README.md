@@ -47,8 +47,9 @@ komande
 biblioteke
 ---
 
-- `stdio.h`
-- `stdlib.h`
+- stdio.h
+- stdlib.h
+- string.h
 
 
 <br>
