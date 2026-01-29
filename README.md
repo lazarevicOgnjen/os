@@ -105,11 +105,13 @@ debug
 > `dbg program`
 
 - `break 12`
+- `condition 1 sum > 15`
 - `run`
 - `step`
 - `print sum`
 - `next`
 - `quit`
+
 
 
 
