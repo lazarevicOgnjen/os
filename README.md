@@ -132,6 +132,16 @@ fajlovi
 >  }
 > ```
 
+> **prolazenje kroz ceo fajl**
+>
+> ```c
+>
+> while (!feof(f)){
+>
+> }
+>
+> ```
+
 
 
 
