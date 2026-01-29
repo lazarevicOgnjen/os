@@ -121,7 +121,14 @@ fajlovi
 - `FILE * f`
 - `f = fopen("/proc/self/status", "r");`
 - `fclose(f);`
-- `fscanf(f, "%s", buff);`
+
+  > **iz f u buff**
+  >
+  > `fscanf(f, "%s", buff);`
+
+  > **iz f2 u f1**
+  >
+  > `fgets(f1, MAX_BUFF, f2);`
 
 > **provera da li je fajl otvoren**
 >
