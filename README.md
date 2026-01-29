@@ -113,7 +113,24 @@ debug
 - `next`
 - `quit`
 
+<br>
 
+fajlovi
+---
+
+- `FILE * f`
+- `f = fopen("/proc/self/status", "r");`
+- `fclose(f);`
+- `fscanf(f, "%s", buff);`
+
+> **provera da li je fajl otvoren**
+>
+> ```c
+>  if(f == 0){
+>  printf("doslo je do greske");
+>   return -1;
+>  }
+> ```
 
 
 
