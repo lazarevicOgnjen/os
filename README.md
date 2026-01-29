@@ -127,8 +127,8 @@ fajlovi
 >
 > ```c
 >  if(f == 0){
->  printf("doslo je do greske");
->   return -1;
+>    printf("doslo je do greske");
+>    return -1;
 >  }
 > ```
 
