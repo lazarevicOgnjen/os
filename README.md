@@ -156,7 +156,23 @@ fajlovi
 >
 > ```
 
+<br>
 
+string
+---
+
+- `strcpy`
+- `strcmp`
+
+> **proverava da li se dati text nalazi u buff**
+>
+> ```c
+>
+> if(strstr(buff, "Hello world")){
+>
+> }
+>
+> ```
 
 
 
