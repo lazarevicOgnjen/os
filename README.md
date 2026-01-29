@@ -74,8 +74,15 @@ tmp = atof(argv[i]);
 
 ```
 
+<br>
 
-
+kompajliranje
+---
+- `gcc imeFajla.c`
+- `gcc imeFajla.c -o program` kada zelimo da damo posebno ime
+> ako zelimo da run-ujemo taj fajl
+> 
+> `./program`
 
 
 
