@@ -79,12 +79,17 @@ tmp = atof(argv[i]);
 kompajliranje
 ---
 - `gcc imeFajla.c`
-- `gcc imeFajla.c -o program` kada zelimo da damo posebno ime
-> ako zelimo da run-ujemo taj fajl
+> **kada zelimo da damo posebno ime**
+>
+> `gcc imeFajla.c -o program`
+
+> **ako zelimo da run-ujemo taj fajl**
 > 
 > `./program`
 
-
+> **prosledjivanje argumenata**
+>
+> `./program 1 2 4 56 8`
 
 
 
