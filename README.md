@@ -136,6 +136,15 @@ fajlovi
 >    return -1;
 >  }
 > ```
+>
+> alternativa
+>
+> ```c
+>  if(!f){
+>    printf("doslo je do greske");
+>    return -1;
+>  }
+> ```
 
 > **prolazenje kroz ceo fajl**
 >
