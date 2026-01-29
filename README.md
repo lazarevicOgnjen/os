@@ -12,13 +12,13 @@ repo
 - `git clone`
 - yes
 - pwd
-- cd KOL1
-- code .
+- `cd KOL1`
+- `code .`
 
 > **commit**
 
 - `git add *`
-- git commit -m "Gotov kolokvijum"
+- `git commit -m "Gotov kolokvijum"`
 - `git push`
 - pwd
 
@@ -33,14 +33,10 @@ komande
 - `cd` `cd ~` `cd /`
 - `ls` `ls /`
 
-<br>
-
 > **direktorijum**
 - `dir`
 - `mkdir`
 - `rmdir`
-
-<br>
 
 > **fajlovi**
 - `touch`
