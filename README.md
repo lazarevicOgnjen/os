@@ -76,7 +76,7 @@ tmp = atof(argv[i]);
 
 <br>
 
-kompajliranje
+compile
 ---
 - `gcc imeFajla.c`
 > **kada zelimo da damo posebno ime**
@@ -91,7 +91,25 @@ kompajliranje
 >
 > `./program 1 2 4 56 8`
 
+<br>
 
+debug
+---
+
+> **prvo moramo ka kompajlujemo**
+>
+> `gcc imeFajla.c -g -o program`
+
+> **debug**
+>
+> `dbg program`
+
+- `break 12`
+- `run`
+- `step`
+- `print sum`
+- `next`
+- `quit`
 
 
 
