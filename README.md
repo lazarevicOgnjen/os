@@ -50,6 +50,8 @@ biblioteke
 - stdio.h
 - stdlib.h
 - string.h
+- sys/types.h
+- unistd.h
 
 
 <br>
@@ -174,7 +176,28 @@ string
 >
 > ```
 
+<br>
 
+procesi
+---
+
+- `pid_t fork();`
+
+> **proveravamo koji je proces roditelj ili dete**
+>
+> ```c
+>switch(cpid = fork()){
+>   case -1:
+>     perror("greka");
+>     exit(1);
+>   case 0:
+>     continue_child();
+>   default:
+>     continue_parent(cpid);
+>
+> }
+>
+> ```
 
 
 
